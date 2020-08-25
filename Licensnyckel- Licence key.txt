@@ -1,0 +1,30 @@
+Från och med den 1 februari 2015, distribueras studentlicenserna kostnadsfritt tills vi informerat något annat.
+Programmet och studentkoderna finns tillgängliga för studenterna genom Studentportalen.
+Observera att support gäller endast senaste versionen.
+
+Authorization Code	License Expiration Date
+IBM SPSS Statistics 25 studentkoder: 671d8b1e7429b2870b7c	February 28, 2019.
+
+
+
+Med vänliga hälsningar
+Alonso Acosta
+IT-tjänsteansvarig/licenshantering
+LDC, Lunds universitet
+-------------------------------------
+
+The student licenses will be distributed free of charge from the 1 of February 2015, until we informed otherwise.
+The program and student codes are available to students through the Student Portal.
+Note that support is valid only the latest version.
+
+Authorization Code	License Expiration Date
+IBM SPSS Statistics 25 studentkoder: 671d8b1e7429b2870b7c	February 28, 2019.
+
+
+Kind regards
+Alonso Acosta
+IT Service Manager
+LDC, Lunds universitet
+-------------------------------------
+
+
